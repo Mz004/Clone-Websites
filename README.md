@@ -28,11 +28,11 @@ To view or modify any of the cloned websites:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/cloned-websites.git
+    git clone https://github.com/Mz004/Clone-Websites.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd cloned-websites
+    cd Clone-Websites/
     ```
 3. Open the desired project folder and open index.html in a web browser to view the cloned website.
 
